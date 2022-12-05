@@ -7,7 +7,7 @@ body {
 
 h1 {
   color: #66bfbf;
-  font-size: 5.625rem;
+  font-size: 5rem;
   margin: 50px auto 0 auto;
   font-family: "Sacramento", cursive;
 }
@@ -15,7 +15,7 @@ h1 {
 h2 {
   color: #66bfbf;
   font-family: "Montserrat", sans-serif;
-  font-size: 2.5rem;
+  font-size: 3rem;
   font-weight: normal;
   padding-bottom: 10px;
 }
@@ -23,10 +23,12 @@ h2 {
 h3 {
   color: #11999e;
   font-family: "Montserrat", sans-serif;
+  font-size: 2rem;
 }
 
 p {
   line-height: 2;
+  font-size: 1.5rem;
 }
 
 hr {
@@ -37,7 +39,7 @@ hr {
 }
 
 a {
-  color: #11999e;
+  color: #004d50;
   font-family: "Montserrat", sans-serif;
   margin: 10px 20px;
   text-decoration: none;
@@ -68,6 +70,7 @@ a:hover {
 
 .skill-row {
   width: 50%;
+  font-size: 1.5rem;
   margin: 100px auto 100px auto;
   text-align: left;
 }
@@ -83,6 +86,7 @@ a:hover {
 
 .contact-message {
   width: 40%;
+  font-size: 1.5rem;
   margin: 40px auto 60px;
 }
 
